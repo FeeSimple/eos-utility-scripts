@@ -1,0 +1,5 @@
+root@Fee-Simple-Testnet:~/eos_script# cleos --wallet-port 8899  wallet create
+Creating wallet: default
+Save password to use in the future to unlock this wallet.
+Without password imported keys will not be retrievable.
+"PW5J6oo61oqVoqbibhs33P2qGha7CiUiFn3eCBxYsZ2Bdv5UE5D6h"
