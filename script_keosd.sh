@@ -1,2 +1,2 @@
 
-keosd --http-server-address 127.0.0.1:8899
+keosd --http-server-address 0.0.0.0:8899
